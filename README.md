@@ -61,6 +61,7 @@ console.log(foo(5));
 ```
 
 ## TABLES 
+
 | Option | Description |
 | ------ | ----------- |
 | data   | Path to data files to supply the data that will be passed into templates. |
