@@ -26,13 +26,13 @@ To date, I have completed **42 rooms** covering network fundamentals, Linux and 
 _Below are selected TryHackMe badges earned through completing structure learning paqths and hands-on labs. These represent verified progress across multuple cybersecurity domains._
 
 <p align = "center">
-<img src = "https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/6a19576488aafc2b35f055b5160e3b63.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/10d9debfbe1e60d80cdc2e3ec2564ada.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/f7cb80169fd1cbad333ef3bb03410bb7.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/922acf3cf1fd05243161446293b89caf.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/e324e557b9871907d6e84d021c494160.png" width = "120"/>
-<img src = "https://assets.tryhackme.com/room-badges/06117de00e1ecd70901326a7468bbcf1.png" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png" alt = "TryHackme Badge: cat linux.txt" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/6a19576488aafc2b35f055b5160e3b63.png" alt = "TryHackme Badge: Metasploitable" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/10d9debfbe1e60d80cdc2e3ec2564ada.png" alt = "TryHackme Badge: Networking Nerd" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/f7cb80169fd1cbad333ef3bb03410bb7.png" alt = "TryHackme Badge: OWASP Top 10" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/922acf3cf1fd05243161446293b89caf.png" alt = "TryHackme Badge: Pentesting Principles" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/e324e557b9871907d6e84d021c494160.png" alt = "TryHackme Badge: Webbed" width = "120"/>
+<img src = "https://assets.tryhackme.com/room-badges/06117de00e1ecd70901326a7468bbcf1.png" alt = "TryHackme Badge: World Wide Web" width = "120"/>
 
 </p>
 
