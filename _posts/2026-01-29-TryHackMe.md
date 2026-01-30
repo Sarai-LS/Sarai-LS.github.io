@@ -25,13 +25,29 @@ To date, I have completed **42 rooms** covering network fundamentals, Linux and 
 ## 🏅 Badges and Achievements
 _Below are selected TryHackMe badges earned through completing structure learning paqths and hands-on labs. These represent verified progress across multuple cybersecurity domains._
 
-![TryHackMe Badge: cat linux.txt](https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png)
-![TryHackMe Badge: Metasploit](https://assets.tryhackme.com/room-badges/6a19576488aafc2b35f055b5160e3b63.png)
-![TryHackMe Badge: Networking Nerd](https://assets.tryhackme.com/room-badges/10d9debfbe1e60d80cdc2e3ec2564ada.png)
-![TryHackMe Badge: OWASP Top 10](https://assets.tryhackme.com/room-badges/f7cb80169fd1cbad333ef3bb03410bb7.png)
-![TryHackMe Badge: Pentesting Principles](https://assets.tryhackme.com/room-badges/922acf3cf1fd05243161446293b89caf.png)
-![TryHackMe Badge: Webbed](https://assets.tryhackme.com/room-badges/e324e557b9871907d6e84d021c494160.png)
-![TryHackMe Badge: World Wide Web](https://assets.tryhackme.com/room-badges/06117de00e1ecd70901326a7468bbcf1.png)
+<div class="badge-grid">
+  <img src="https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png" alt="TryHackMe Badge: cat linux.txt">
+  <img src="https://assets.tryhackme.com/room-badges/6a19576488aafc2b35f055b5160e3b63.png" alt="TryHackMe Badge: Metasploitable">
+  <img src="https://assets.tryhackme.com/room-badges/10d9debfbe1e60d80cdc2e3ec2564ada.png" alt="TryHackMe Badge: Networking Nerd">
+  <img src="https://assets.tryhackme.com/room-badges/f7cb80169fd1cbad333ef3bb03410bb7.png" alt="TryHackMe Badge: OWASP Top 10">
+  <img src="https://assets.tryhackme.com/room-badges/922acf3cf1fd05243161446293b89caf.png" alt="TryHackMe Badge: Pentesting Principles">
+  <img src="https://assets.tryhackme.com/room-badges/e324e557b9871907d6e84d021c494160.png" alt="TryHackMe Badge: Webbed">
+  <img src="https://assets.tryhackme.com/room-badges/06117de00e1ecd70901326a7468bbcf1.png" alt="TryHackMe Badge: World Wide Web">
+</div>
+
+<style>
+.badge-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+.badge-grid img {
+  width: 90px;
+  height: auto;
+}
+</style>
 
 
 ## Completed TryHackMe Rooms **(42 Total)**
