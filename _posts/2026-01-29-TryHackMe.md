@@ -50,7 +50,7 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 </style>
 
 
-## Completed TryHackMe Rooms **(42 Total)**
+## 💻 Completed TryHackMe Rooms **(42 Total)**
 
 ### Networking & Web Fundamentals
 - What is Networking
