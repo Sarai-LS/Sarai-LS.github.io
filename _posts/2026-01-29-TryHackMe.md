@@ -25,7 +25,7 @@ To date, I have completed **42 rooms** covering network fundamentals, Linux and 
 ## 🏅 Badges and Achievements
 _Below are selected TryHackMe badges earned through completing structure learning paqths and hands-on labs. These represent verified progress across multuple cybersecurity domains._
 
-<p align = "center">
+<p style = "text-align:center;">
 <img src = "https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png" alt = "TryHackme Badge: cat linux.txt" width = "120"/>
 <img src = "https://assets.tryhackme.com/room-badges/6a19576488aafc2b35f055b5160e3b63.png" alt = "TryHackme Badge: Metasploitable" width = "120"/>
 <img src = "https://assets.tryhackme.com/room-badges/10d9debfbe1e60d80cdc2e3ec2564ada.png" alt = "TryHackme Badge: Networking Nerd" width = "120"/>
