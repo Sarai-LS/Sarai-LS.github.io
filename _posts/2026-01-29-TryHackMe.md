@@ -44,7 +44,7 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 }
 
 .badge-grid img {
-  width: 300px;
+  width: 250px;
   height: auto;
 }
 </style>
