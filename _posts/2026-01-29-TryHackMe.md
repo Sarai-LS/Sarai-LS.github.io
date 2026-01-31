@@ -17,12 +17,12 @@ tags:
   - wireshark
 ---
 
-# Overview
+# **Overview**
 This post documents my hands-on cybersecurity training through **TryHackMe**, an interactive learning platform focused on real-world security concepts and practical labs.
 
 To date, I have completed **42 rooms** covering network fundamentals, Linux and Windows systems, web application security, crypography, and penetration testing methodologies. These labs have helped me build both technical skills and a security-focused mindset through guided exercises and challenge-based learning.
 
-## 🏅 Badges and Achievements
+## **Badges and Achievements**
 _Below are selected TryHackMe badges earned through completing structure learning paqths and hands-on labs. These represent verified progress across multuple cybersecurity domains._
 
 <div class="badge-grid">
@@ -50,7 +50,7 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 </style>
 
 
-## 💻 Completed TryHackMe Rooms **(42 Total)**
+## **Completed TryHackMe Rooms _(42 Total)_**
 
 ### Networking & Web Fundamentals
 - What is Networking
@@ -110,7 +110,7 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 - x86 Architecture Overview
 - x86 Assembly Crash Course
 
-## 🔍 Selected Room Highlights
+## **Selected Room Highlights**
 
 ### Linux Privilege Escalation
 Focused on enumeration techniques, misconfigured permissions, SUID (Set User ID) binaries, cron jobs, and exploiting vulnerable services to escalate privileges on Linux systems.
@@ -127,11 +127,11 @@ Analyzed PCAP files to identify anomaloys network behavior, suspicious traffic p
 ### Metasploit: Exploitation
 Use Metasploit modules for scanning, exploitation, and post-exploitation to understand real-world attack workflows.
 
-## 🚀 What This Experience Gave Me
+## **What This Experience Gave Me**
 Completing these labs strengthened my understanding of how real-world systems are attacked and defended. Beyond individual tools, I learned how to methodically think about enumeration, exploitation, and post-exploitatino while maintaining an ethical and responsible approach to security.
 
 This hands-on experience has reinforced my interest in cybersecurity and prepared me for continued learning in defensive and offensive security roles.
 
-## 🔗 TryHackMe Profile
+## **TryHackMe Profile**
 Check out my full TryHackMe profile here!
 [https://tryhackme.com/p/sarai.e.504](https://tryhackme.com/p/sarai.e.504)
