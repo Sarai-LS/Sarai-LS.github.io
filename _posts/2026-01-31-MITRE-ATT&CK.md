@@ -1,6 +1,6 @@
 ---
 title: "MITRE ATT&CK Mapping: APT29 (Cozy Bear)"
-date: 2026-02-01
+date: 2026-01-31
 categories: [portfolio, cyber-threat-intelligence]
 tags:
   - mitre-attack
