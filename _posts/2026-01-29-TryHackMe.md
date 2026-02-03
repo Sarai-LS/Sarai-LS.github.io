@@ -17,7 +17,7 @@ tags:
   - wireshark
 ---
 
-# **Overview**
+## **Overview**
 This post documents my hands-on cybersecurity training through **TryHackMe**, an interactive learning platform focused on real-world security concepts and practical labs.
 
 To date, I have completed **42 rooms** covering network fundamentals, Linux and Windows systems, web application security, crypography, and penetration testing methodologies. These labs have helped me build both technical skills and a security-focused mindset through guided exercises and challenge-based learning.
