@@ -30,7 +30,7 @@ The network topology was structured as follows:
 _Note: A firewall (Cisco ASA) was initially introduced between the router and switch to simulate perimiter security. However, due to VLAN trunking limitations within Packet Tracer, the final implementation enforces security controls at the routing layer using ACLs._
 
 
-## **VLAN Segmentation:**
+## **VLAN Segmentation**
 - **VLAN 10 -** Users
 - **VLAN 20 -** IT/Admin
 - **VLAN 30 -** Internal Servers
