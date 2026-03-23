@@ -23,7 +23,7 @@ The network was designed with a layered approach, incorporating VLAN segmentatio
 - **Security Focus:** Least privilege, network segmentation, controlled access
 - **Key Outcome:** Verified enforcement of restricted communication between network zones
 
-## **Architecture Overview:**
+## **Architecture Overview**
 The network topology was structured as follows:
 
 ![Full Topology](/assets/full_topology.png)
@@ -124,3 +124,8 @@ It reflects my approach to cybersecurity engineering by:
 - Thinking in terms of risk reduction
 - Enforcing least privilege
 - Designing systems with clear trust boundaries
+
+## **Download the Cisco Packet Tracer Project**
+You can download the full Cisco Packet Tracer file to explore the network yourself!
+
+[Download Packet Tracer Project](/assets/sarai_cyber_engineering_project.pkt)
