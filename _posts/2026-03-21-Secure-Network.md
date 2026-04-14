@@ -13,7 +13,7 @@ tags:
 ---
 
 ## **Overview**
-This project demonstrates the design and implementation of a secure enterprise network architecture using Cisco Packet Tracer. The goal was to simulate a realistic organizational environment with multuple departments, enforce network segmentation, and apply security controls to reduce unauthorized access and lateral movement.
+This project demonstrates the design and implementation of a secure enterprise network architecture using Cisco Packet Tracer. The goal was to simulate a realistic organizational environment with multiple departments, enforce network segmentation, and apply security controls to reduce unauthorized access and lateral movement.
 
 The network was designed with a layered approach, incorporating VLAN segmentation, inter-VLAN routing, and access control lists (ACLs) to establish and enforce trust boundaries between internal systems.
 
@@ -27,7 +27,7 @@ The network was designed with a layered approach, incorporating VLAN segmentatio
 The network topology was structured as follows:
 
 ![Full Topology](/assets/full_topology.png)
-_Note: A firewall (Cisco ASA) was initially introduced between the router and switch to simulate perimiter security. However, due to VLAN trunking limitations within Packet Tracer, the final implementation enforces security controls at the routing layer using ACLs._
+_Note: A firewall (Cisco ASA) was initially introduced between the router and switch to simulate perimeter security. However, due to VLAN trunking limitations within Packet Tracer, the final implementation enforces security controls at the routing layer using ACLs._
 
 
 ## **VLAN Segmentation**
@@ -54,8 +54,8 @@ This design:
 ACLs were implemented to enforce **least privilege access control** between VLANs.
 
 **Key Policies:**
-- Users **cannot access** Server VLAN
-- Users **cannot access** IT VLAN
+- Users **cannot access** the Server VLAN
+- Users **cannot access** the IT VLAN
 - IT/Admin access can be extended for management (optional)
 - All other traffic is permitted as needed
 
@@ -64,7 +64,7 @@ Example ACL:
 ![ACL Configuration](/assets/acl_configuration.png)
 
 ## **Security Validation (Testing)**
-The network was tested to validate both **Allowed and restricted communication paths.**
+The network was tested to validate both **allowed and restricted communication paths.**
 
 **Allowed:**
 - User --> Default Gateway (```192.168.10.1```)
@@ -80,7 +80,7 @@ _Output:_
 
 These results confirm that traffic is being evaluated and denied according to defined security policies.
 
-## **Secuity Controls Implemented**
+## **Security Controls Implemented**
 - VLAN-based segmentation
 - Centralized inter-VLAN routing
 - ACL-based policy enforcement
@@ -94,9 +94,9 @@ These controls reduce:
 ## **Threat Considerations**
 This design accounts for:
 - **Lateral Movement:** Mitigated through segmentation and ACL enforcement
-- **Unauthorized Access:** Controlled via least privilge policies
-- **Overexposed Services:** DMZ concept isolates public-facing systems
-- **Misconfigured Acces:** Explicit rule-based filtering reduces risk
+- **Unauthorized Access:** Controlled via least privilege policies
+- **Overexposed Services:** The DMZ concept isolates public-facing systems
+- **Misconfigured Access:** Explicit rule-based filtering reduces risk
 
 ## **Real-World Relevance**
 This project reflects real-world cybersecurity engineering concepts:
@@ -111,7 +111,7 @@ While implemented in a simulated environment, the architectural decisions align 
 One of the main challenges encountered was integrating a firewall (Cisco ASA) into a VLAN-based architecture within Packet Tracer.
 
 This highlighted:
-- The importance of hacing a correct Layer 2 vs Layer 3 design
+- The importance of having a correct Layer 2 vs Layer 3 design
 - How security devices can impact traffic flow
 - The complexity of placing controls without breaking functionality
 
