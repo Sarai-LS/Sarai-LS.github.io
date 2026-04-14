@@ -13,7 +13,7 @@ tags:
 ---
 
 ## **Overview**
-This project demonstrates the design and implementation of a secure enterprise network architecture using Cisco Packet Tracer. Ths goal was to simulate a realistic organizational environment with multuple departments, enforce network segmentation, and apply security controls to reduce unauthorized access and lateral movement.
+This project demonstrates the design and implementation of a secure enterprise network architecture using Cisco Packet Tracer. The goal was to simulate a realistic organizational environment with multuple departments, enforce network segmentation, and apply security controls to reduce unauthorized access and lateral movement.
 
 The network was designed with a layered approach, incorporating VLAN segmentation, inter-VLAN routing, and access control lists (ACLs) to establish and enforce trust boundaries between internal systems.
 
