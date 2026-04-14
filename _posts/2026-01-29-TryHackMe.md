@@ -20,10 +20,10 @@ tags:
 ## **Overview**
 This post documents my hands-on cybersecurity training through **TryHackMe**, an interactive learning platform focused on real-world security concepts and practical labs.
 
-To date, I have completed **42 rooms** covering network fundamentals, Linux and Windows systems, web application security, crypography, and penetration testing methodologies. These labs have helped me build both technical skills and a security-focused mindset through guided exercises and challenge-based learning.
+To date, I have completed **42 rooms** covering network fundamentals, Linux and Windows systems, web application security, cryptography, and penetration testing methodologies. These labs have helped me build both technical skills and a security-focused mindset through guided exercises and challenge-based learning.
 
 ## **Badges and Achievements**
-_Below are selected TryHackMe badges earned through completing structure learning paqths and hands-on labs. These represent verified progress across multuple cybersecurity domains._
+_Below are selected TryHackMe badges earned through completing structured learning paths and hands-on labs. These represent verified progress across multiple cybersecurity domains._
 
 <div class="badge-grid">
   <img src="https://assets.tryhackme.com/room-badges/a5c8bc6bba9bebdd3e3c20dd8d42c185.png" alt="TryHackMe Badge: cat linux.txt">
@@ -96,7 +96,7 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 - Buffer Overflows
 
 ### Privilege Escalation & Lateral Movement
-- Linux Privelege Escalation
+- Linux Privilege Escalation
 - Windows Privilege Escalation
 - Windows Local Persistence
 - Lateral Movement and Pivoting
@@ -116,19 +116,19 @@ _Below are selected TryHackMe badges earned through completing structure learnin
 Focused on enumeration techniques, misconfigured permissions, SUID (Set User ID) binaries, cron jobs, and exploiting vulnerable services to escalate privileges on Linux systems.
 
 ### Windows Privilege Escalation
-Explored common Windows privilege escalation scenarios including service misconfiguration, registry abuse, and credential harvesting techniques.
+Explored common Windows privilege escalation scenarios, including service misconfiguration, registry abuse, and credential harvesting techniques.
 
 ### Burp Suite: The Basics
 Learned how to intercept, modify, and analyze HTTP requests to identify vulnerabilities such as parameter tampering and insecure input handling.
 
 ### Wireshark: Traffic Analysis
-Analyzed PCAP files to identify anomaloys network behavior, suspicious traffic patterns, and protocol misuse.
+Analyzed PCAP files to identify anomalous network behavior, suspicious traffic patterns, and protocol misuse.
 
 ### Metasploit: Exploitation
 Use Metasploit modules for scanning, exploitation, and post-exploitation to understand real-world attack workflows.
 
 ## **What This Experience Gave Me**
-Completing these labs strengthened my understanding of how real-world systems are attacked and defended. Beyond individual tools, I learned how to methodically think about enumeration, exploitation, and post-exploitatino while maintaining an ethical and responsible approach to security.
+Completing these labs strengthened my understanding of how real-world systems are attacked and defended. Beyond individual tools, I learned how to methodically think about enumeration, exploitation, and post-exploitation while maintaining an ethical and responsible approach to security.
 
 This hands-on experience has reinforced my interest in cybersecurity and prepared me for continued learning in defensive and offensive security roles.
 
